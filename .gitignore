@@ -1,0 +1,18 @@
+# ESPHome generated files
+.esphome/
+.pioenvs/
+.piolibdeps/
+*.bin
+*.elf
+
+# Secrets - NEVER commit
+secrets.yaml
+secrets.yml
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.bak
+*.swp

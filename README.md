@@ -1,6 +1,6 @@
 # ESPHome Configurations
 
-Some of my ESPHome configurations for home automation devices.
+(Some of) my ESPHome configurations for home automation devices.
 
 ## GoodWe PV interter [goodwe-pv-inverter.yaml](goodwe-pv-inverter.yaml)
 

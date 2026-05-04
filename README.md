@@ -6,6 +6,7 @@ Some of my ESPHome configurations for home automation devices.
 
 Hardware: 
 - ESP8266 (Wemos Mini D1) + RS485 transceiver module
+- GW6K-DT
 
 Purpose:
 - Readout all inverter statistics (see screenshot)
@@ -13,10 +14,11 @@ Purpose:
 
 ![Wemos_inverter](images/wemos_inverter.png)
 
-## Jura Coffee [jura.yaml](jura.yaml)
+## Jura Coffee Machine [jura.yaml](jura.yaml)
 
 Hardware: 
 - ESP8266 (Wemos Mini D1)
+- Jura D6 Coffee Machine
 
 Purpose:
 - Readout all Coffee machine statistics (see screenshot)

@@ -25,6 +25,8 @@ Purpose:
 - Let the Sonos speak if the water tank is empty for example (via Home Assistant automation
 - Needs file [jura_coffee.h](jura_coffee.h) to work!
 
+![Jura_D6](images/jura_d6.png)
+
 ## Notes
 
 - All API encryption keys and OTA passwords are referenced via `!secret` from `secrets.yaml`

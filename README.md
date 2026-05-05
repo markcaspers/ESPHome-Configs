@@ -6,7 +6,7 @@
 
 Hardware: 
 - ESP8266 (Wemos Mini D1) + RS485 transceiver module
-- GW6K-DT
+- GW6K-DT inverter
 
 Purpose:
 - Readout all inverter statistics (see screenshot)
@@ -31,7 +31,7 @@ Purpose:
 
 - All API encryption keys and OTA passwords are referenced via `!secret` from `secrets.yaml`
 - Home Assistant entities are in Dutch
-- Tested with ESPHome 2026.4.4
+- Tested with ESPHome 2026.x
 
 ## License
 
